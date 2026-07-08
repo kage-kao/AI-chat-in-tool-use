@@ -6,5 +6,5 @@
 
 ``` Telegram: @github_kage_kao_bot ```
 
-> OpenAI-style прокси для бесплатных веб-моделей z.ai (GLM) с эмуляцией tool-use для AI-агентов.
+> OpenAI‑style прокси, обёртывающий чат‑модели Z.AI (GLM) в tool‑use‑интерфейс для агентов.
 > 
